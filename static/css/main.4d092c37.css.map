@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4d092c37.css","mappings":"AAAA,mBAEI,wBAAkC,CADlC,UAEJ","sources":["Button.module.css"],"sourcesContent":[".btn {\n    color:white;\n    background-color: rgb(68, 211, 127)\n}"],"names":[],"sourceRoot":""}
